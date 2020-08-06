@@ -77,7 +77,7 @@ function cargarUsuarioSesion() {
 
 function fecha_actual() {
   date_default_timezone_set("America/Argentina/Cordoba");
-  $fecha = date("Y-m-d", time());
+  $fecha = date("d/m/Y", time());
   return $fecha;
 }
 
