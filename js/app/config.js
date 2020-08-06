@@ -1,0 +1,1 @@
+window.$url_api = 'includes/API.php';

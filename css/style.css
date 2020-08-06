@@ -1,0 +1,32 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 150px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 60px;
+  color:white;
+}
+
+.ingreso {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+
+.contenedor {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.cuenta {
+  margin-left: 20%;
+  margin-right: 20%;
+}
